@@ -1,5 +1,5 @@
 # 💫 About Me:
-Barani V A | Software Developer & Open-Source Contributor<br>🎓 BCA Student at VELS University (Graduating May 2024)<br>💻 Languages: Python, Java, JavaScript, C++<br>🚀 Skills: Full-Stack Development, Data Science, API Development<br>🌟 Open-Source Enthusiast | Active GitHub Contributor<br>🔧 Projects: Sentiment Analysis, Community Project Management Tool<br>📊 Data Proficiency: Data Modeling, SQL, Machine Learning<br>📫 Let’s Connect! Open to collaboration & learning new technologies
+Barani V A | Software Developer & Open-Source Contributor<br>🎓 BCA Graduate from VELS University<br> 🎓 M.Sc. Computer Science Student at Valliammal College for Women<br>💻 Languages: Python, Java, JavaScript, C++<br>🚀 Skills: Full-Stack Development, Data Science, API Development<br>🌟 Open-Source Enthusiast | Active GitHub Contributor<br>🔧 Projects: Sentiment Analysis, Community Project Management Tool<br>📊 Data Proficiency: Data Modeling, SQL, Machine Learning<br>📫 Let’s Connect! Open to collaboration & learning new technologies
 
 
 ## 🌐 Socials:
